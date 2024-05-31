@@ -1,4 +1,4 @@
-# Day22of50-Amazon-Web-Clone-Template
+# Day22of50-Responsive-Industrial-Business-Website-Template
 
 Embark on an exhilarating journey of web development with my "50 Days, 50 WebDev Projects" challenge! Over the course of 50 days, immerse yourself in the world of HTML, CSS, and JavaScript as we craft 50 unique websites and applications from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash our creativity. Join me in this exciting adventure!
 
