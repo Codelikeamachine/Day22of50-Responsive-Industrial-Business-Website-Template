@@ -4,7 +4,7 @@ Embark on an exhilarating journey of web development with my "50 Days, 50 WebDev
 
 Join me:
 
-Live Demo - 
+Live Demo - https://codelikeamachine.github.io/Day22of50-Responsive-Industrial-Business-Website-Template/
 
 Github - https://github.com/Codelikeamachine
 
